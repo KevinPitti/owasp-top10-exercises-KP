@@ -8,13 +8,14 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
+*These instructions are [available in english](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.md)*
+
 ### Antes de empezar...
 
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 
 <!-- endhide -->
 
-*These instructions are [available in english](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.md)*
 
 ## 📝 Instrucciones
 
@@ -27,7 +28,7 @@ En esta actividad, utilizaremos la máquina virtual BeeBox, que contiene la apli
 - Identificar puntos vulnerables en bWAPP correspondientes a las categorías del OWASP Top 10.
 - Explorar cómo cada vulnerabilidad puede ser explotada para acceder a datos sensibles o comprometer la seguridad de la aplicación.
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -44,7 +45,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
-<!-- endhowtostart -->
+</onlyfor>
 
 <!-- hide -->
 

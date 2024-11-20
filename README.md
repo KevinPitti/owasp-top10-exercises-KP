@@ -10,6 +10,9 @@
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.es.md)*
 
+### Before you start...
+
+> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
 
 
@@ -25,9 +28,6 @@ In this activity, we will use the BeeBox virtual machine, which contains the vul
 - Explore how each vulnerability can be exploited to access sensitive data or compromise the application's security.
 
 <!-- hide -->
-### Before you start...
-
-> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
 
 <onlyfor saas="true" withBanner="true">

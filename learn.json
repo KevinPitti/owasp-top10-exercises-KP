@@ -16,5 +16,8 @@
   "localhostOnly": true,
   "editor": {
     "version": "4.0.0"
-  }
+  },
+  "delivery": {
+		"formats": ["no_delivery"]
+	}
 }

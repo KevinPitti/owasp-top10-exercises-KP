@@ -28,7 +28,7 @@ En esta actividad, utilizaremos la máquina virtual BeeBox, que contiene la apli
 - Identificar puntos vulnerables en bWAPP correspondientes a las categorías del OWASP Top 10.
 - Explorar cómo cada vulnerabilidad puede ser explotada para acceder a datos sensibles o comprometer la seguridad de la aplicación.
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 

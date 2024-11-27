@@ -30,7 +30,7 @@ In this activity, we will use the BeeBox virtual machine, which contains the vul
 <!-- hide -->
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas="false" withBanner="false">
   
 ## 🌱 How to start a project?
 

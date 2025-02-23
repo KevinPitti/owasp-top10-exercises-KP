@@ -32,7 +32,7 @@ En esta actividad, utilizaremos la máquina virtual BeeBox, que contiene la apli
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
-Clona este repositorio dentro de tu maquina virtual debian y sigue los siguientes pasos:
+Clona [este repositorio](https://github.com/breatheco-de/owasp-top10-exercises) dentro de tu maquina virtual debian y sigue los siguientes pasos:
 
 1. Instale LearnPack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador de nodos para learnpack, asegúrese de tener también node.js 14:
 

@@ -19,5 +19,11 @@
   "localhostOnly": true,
   "editor": {
     "version": "4.0.0"
-  }
+  },
+  "delivery": {
+		"formats": ["no_delivery"]
+  },
+    "telemetry": {
+	"batch":"https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1965"
+    }
 }

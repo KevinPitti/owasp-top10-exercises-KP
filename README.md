@@ -30,7 +30,7 @@ In this activity, we will use the BeeBox virtual machine, which contains the vul
 <!-- hide -->
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱 How to start a project?
 
@@ -47,7 +47,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
-</onlyfor>
+</how-to-start>
 
 <!-- hide -->
 ## Contributors

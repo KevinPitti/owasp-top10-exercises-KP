@@ -1,3 +1,5 @@
+<!-- hide -->
+
 # OWASP Top 10 Vulnerabilities Exercises
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -7,22 +9,6 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are [available in english](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.md)*
-<!-- endhide -->
-
-## 📝 Instrucciones
-
-
-[OWASP Top 10](https://owasp.org/www-project-top-ten/) es una lista de las vulnerabilidades de seguridad más críticas en aplicaciones web. Cada una de estas vulnerabilidades representa una debilidad que puede ser explotada por atacantes para obtener acceso no autorizado, robar información sensible, o comprometer la integridad de una aplicación.
-
-En esta actividad, utilizaremos la máquina virtual BeeBox, que contiene la aplicación vulnerable bWAPP, para explorar y explotar las vulnerabilidades incluidas en el OWASP Top 10. A través de este ejercicio, ganarás una visión práctica de cómo se pueden explotar las vulnerabilidades del OWASP Top 10.
-
-
-**Objetivos:**
-
-- Identificar puntos vulnerables en bWAPP correspondientes a las categorías del OWASP Top 10.
-- Explorar cómo cada vulnerabilidad puede ser explotada para acceder a datos sensibles o comprometer la seguridad de la aplicación.
-
-
 
 ### Antes de empezar...
 
@@ -30,9 +16,23 @@ En esta actividad, utilizaremos la máquina virtual BeeBox, que contiene la apli
 
 <!-- endhide -->
 
+
+## 📝 Instrucciones
+
+[OWASP Top 10](https://owasp.org/www-project-top-ten/) es una lista de las vulnerabilidades de seguridad más críticas en aplicaciones web. Cada una de estas vulnerabilidades representa una debilidad que puede ser explotada por atacantes para obtener acceso no autorizado, robar información sensible, o comprometer la integridad de una aplicación.
+
+En esta actividad, utilizaremos la máquina virtual BeeBox, que contiene la aplicación vulnerable bWAPP, para explorar y explotar las vulnerabilidades incluidas en el OWASP Top 10. A través de este ejercicio, ganarás una visión práctica de cómo se pueden explotar las vulnerabilidades del OWASP Top 10.
+
+**Objetivos:**
+
+- Identificar puntos vulnerables en bWAPP correspondientes a las categorías del OWASP Top 10.
+- Explorar cómo cada vulnerabilidad puede ser explotada para acceder a datos sensibles o comprometer la seguridad de la aplicación.
+
+<how-to-start>
+
 ## 🌱 ¿Cómo empezar este proyecto?
 
-Clona este repositorio dentro de tu maquina virtual debian y sigue los siguientes pasos:
+Clona [este repositorio](https://github.com/breatheco-de/owasp-top10-exercises) dentro de tu maquina virtual debian y sigue los siguientes pasos:
 
 1. Instale LearnPack, el administrador de paquetes para tutoriales de aprendizaje y el complemento del compilador de nodos para learnpack, asegúrese de tener también node.js 14:
 
@@ -45,6 +45,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
+</how-to-start>
 
 <!-- hide -->
 

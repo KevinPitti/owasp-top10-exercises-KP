@@ -36,7 +36,7 @@ In this activity, we will use the BeeBox virtual machine, which contains the vul
 
 Clone [this repository](https://github.com/breatheco-de/owasp-top10-exercises) in your debian virtual machine, and follow the steps below:
 
-1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js 14:
+1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js:
 
 ```bash
 $ npm i @learnpack/learnpack -g

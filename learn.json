@@ -18,7 +18,7 @@
   "slug": "owasp-top10-exercises",
   "localhostOnly": true,
   "editor": {
-    "version": "4.0.0"
+    "version": "5.0"
   },
   "delivery": {
 		"formats": ["no_delivery"]
